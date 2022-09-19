@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gelso22
-- 👀 I’m interested in trading and data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on CITADEL lol
+- 👀 I’m interested in trading and data science.
+- 🌱 I’m currently learning python and R.
+- 💞️ I’m looking to work on projects with a lot of data.
 - 📫 How to reach me gelso2210@gmail.com
